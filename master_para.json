@@ -2,7 +2,7 @@
     "exclude":[
 
     ],
-    "newamiid": "ami-052efd3df9dad4825",
+    "newamiid": "ami-06640050dc3f556bb",
     "include":[
         {
             "asgname": "xekus-snorlaxasg-10BHGM9W7JQ6U",
