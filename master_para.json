@@ -2,14 +2,14 @@
     "exclude":[
 
     ],
-    "newamiid": "ami-06640050dc3f556bb",
+    "newamiid": "ami-08895422b5f3aa64a",
     "include":[
         {
             "asgname": "ASG-01-snorlaxasg-DNGNTVM8F8YZ",
             "minsize": "1",
             "maxsize": "2",
             "dessize": "1",
-            "launchconfname": "ASG-01-snorlaxconf-ieey7Za5cYqp",
+            "launchconfname": "ASG-01-snorlaxconf-l0IsnHMlfLdZ",
             "amiparamname": "amiid",
             "desparamname": "dessize",
             "minparamname": "minsize",
