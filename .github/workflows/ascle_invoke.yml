@@ -21,7 +21,7 @@ jobs:
           aws-region: us-east-1
       
       - name: AWS PARAM STORE UPDATE
-        run: aws ssm put-parameter --name "AscleParamStore" --value file://master_para.json --type String
+        run: aws ssm put-parameter --name "AscleParamStore" --value file://master_para.json --type String --overwrite
 
       - name: TRIGGER SSM DOC
         run: aws ssm start-automation-execution --document-name "AscleStart"
