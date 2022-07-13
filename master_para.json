@@ -5,22 +5,22 @@
     "newamiid": "ami-08895422b5f3aa64a",
     "include":[
         {
-            "asgname": "ASG-01-snorlaxasg-EUKYEB360S0Z",
+            "asgname": "ASG01-snorlaxasg-1Q38CK9PUDP44",
             "minsize": "1",
             "maxsize": "2",
             "dessize": "1",
-            "launchconfname": "ASG-01-snorlaxconf-yS4WNCDAjPNY",
+            "launchconfname": "ASG01-snorlaxconf-tmui2StlnIQL",
             "amiparamname": "amiid",
             "desparamname": "dessize",
             "minparamname": "minsize",
             "maxparamname": "maxsize"
         },
         {
-            "asgname": "ASG-00-snorlaxasg-1315BF4HZZ64B",
+            "asgname": "ASG00-snorlaxasg-1W3V5V831Y8VE",
             "minsize": "1",
             "maxsize": "2",
             "dessize": "1",
-            "launchconfname": "ASG-00-snorlaxconf-VTIST79YgK7U",
+            "launchconfname": "ASG00-snorlaxconf-q8Dydx94VFzA",
             "amiparamname": "amiid",
             "desparamname": "dessize",
             "minparamname": "minsize",
