@@ -5,13 +5,13 @@
     "include":[
         {
             "newamiid": "ami-08895422b5f3aa64a",
-            "asgname": "ASG00-snorlaxasg-1NC1LUF1IGZUJ",
+            "asgname": "ASG02-snorlaxasg-6C8UDOGZ1RFG",
             "amiparamname": "amiid",
             "minhealthy": "50"
         },
         {
             "newamiid": "ami-08895422b5f3aa64a",
-            "asgname": "ASG01-snorlaxasg-XJV5QUGSUYRD",
+            "asgname": "ASG01-snorlaxasg-18JQEJ6YBQO83",
             "amiparamname": "amiid",
             "minhealthy": "50"
         }
