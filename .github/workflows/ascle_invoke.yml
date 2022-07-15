@@ -23,5 +23,5 @@ jobs:
       - name: AWS PARAM STORE UPDATE
         run: aws ssm put-parameter --name "AscleParamStore" --value file://master_para.json --type String --overwrite
 
-      - name: TRIGGERS LAMBDA
-        run: aws lambda invoke --function-name "manMasterExec" resp.json
+      # - name: TRIGGERS LAMBDA
+      #   run: aws lambda invoke --function-name "manMasterExec" resp.json
